@@ -7,10 +7,18 @@ In order to implement this idea, we have developed a mobile application which al
 
 ### App Screenshots
 Version 1
+
+
 <img src='screenshots/mockup1.jpg' width='60%' />
 Version 2
+
+
 <img src='screenshots/mockup2.jpg' width='60%' />
 Version 3
+
+
 <img src='screenshots/mockup3.jpg' width='60%' />
 Version 4
+
+
 <img src='screenshots/mockup4.jpg' width='60%' />

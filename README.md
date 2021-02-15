@@ -5,6 +5,12 @@ The main goal of the current thesis is to demonstrate the development and evolut
 
 In order to implement this idea, we have developed a mobile application which allows the end user to subscribe to multiple different venues, scan the personalised QR code of each store, collect points or stamps and earn gifts once he/she reaches the required threshold. There is also the option for users to trade points between themselves if they are both subscribed to the same store. Last but not least, the store has the option to accept and refuse the user requests and also define which loyalty program they want to run and the specifications they wish to have.
 
-#### App Screenshots
-
-<img src='screenshots/mockup1.jpg' width='40%' />
+### App Screenshots
+#### Version 1
+<img src='screenshots/mockup1.jpg' width='60%' />
+#### Version 2
+<img src='screenshots/mockup2.jpg' width='60%' />
+#### Version 3
+<img src='screenshots/mockup3.jpg' width='60%' />
+#### Version 4
+<img src='screenshots/mockup4.jpg' width='60%' />

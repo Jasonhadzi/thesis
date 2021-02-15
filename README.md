@@ -7,4 +7,4 @@ In order to implement this idea, we have developed a mobile application which al
 
 #### App Screenshots
 
-<img src='screenshots/mockup1.jpg' width=40% \>
+<img src='screenshots/mockup1.jpg' width='40%' />

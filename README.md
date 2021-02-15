@@ -1,16 +1,10 @@
 # wolie_mobile
 
-A new Flutter application.
+The main goal of the current thesis is to demonstrate the development and evolution of an idea can have while transforming into a real product when we follow the Lean Startup methodology (Build - Measure - Learn). To be more specific, we will focus on the QSR industry and examine the value of centralised loyalty programs.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+In order to implement this idea, we have developed a mobile application which allows the end user to subscribe to multiple different venues, scan the personalised QR code of each store, collect points or stamps and earn gifts once he/she reaches the required threshold. There is also the option for users to trade points between themselves if they are both subscribed to the same store. Last but not least, the store has the option to accept and refuse the user requests and also define which loyalty program they want to run and the specifications they wish to have.
 
-A few resources to get you started if this is your first Flutter project:
+#### App Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='screenshots/mockup1.jpg' width=40% \>
